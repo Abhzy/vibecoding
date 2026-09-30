@@ -3,7 +3,7 @@ Catch the Falling Objects (Lab Starter)
 
 Run with:  python3 main.py
 
-Controls: Left/Right arrows to move the basket.
+Controls: Left/Right arrows to move the basket, Space for a speed boost.
 """
 
 import pygame
